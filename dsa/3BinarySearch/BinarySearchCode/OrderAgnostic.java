@@ -8,7 +8,7 @@ public class OrderAgnostic {
     static int agnosticSearch(int[] arr, int target, boolean isAscending) {
         int start = 0, end = arr.length - 1;
 
-        while (start < end) {
+        while (start <= end) {
             int mid = start + (end - start) / 2;
 
             if (arr[mid] == target) {
