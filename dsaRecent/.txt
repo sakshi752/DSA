@@ -1,0 +1,22 @@
+Month 1: Arrays & Strings
+→ Arrays: Two pointers, sliding window, prefix sums, subarrays, sorting
+→ Strings: Hashing, palindrome, substring search, two pointers
+
+Month 2: Linked Lists & Stacks/Queues
+→ Linked Lists: Fast & slow pointers, reversal, merge/intersection
+→ Stacks/Queues: Monotonic stack, min/max stack, queue simulation
+
+Month 3: Trees
+→ BFS, DFS, recursion, binary search tree, tree diameter, lowest common ancestor
+
+Month 4: Graphs & Heaps
+→ Graphs: BFS, DFS, topological sort, shortest path, cycle detection, components
+→ Heaps: Min-heap, max-heap, heap applications
+
+Month 5: Intervals & Advanced Patterns
+→ Intervals: Merge intervals, sweep line
+→ Greedy: Scheduling, activity selection
+→ Bit Manipulation, Backtracking basics
+
+Month 6: Dynamic Programming (DP)
+→ 1D/2D DP, subsequence/substring, knapsack, state compression, DP on trees

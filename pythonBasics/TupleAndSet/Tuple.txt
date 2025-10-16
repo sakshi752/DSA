@@ -1,0 +1,4 @@
+A tuple is an ordered, immutable collection of items which means You can’t change, add, or remove elements after it’s created.
+
+it is faster
+

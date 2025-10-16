@@ -1,0 +1,7 @@
+A collection of unique items (no duplicates allowed)
+
+Unordered → items have no index or position
+
+Mutable → you can add or remove items
+
+Written inside curly braces {}

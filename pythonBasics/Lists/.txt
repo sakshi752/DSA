@@ -1,0 +1,8 @@
+A list in Python is an ordered, mutable (changeable) collection of items. And in Lists duplicates are allowed and they are idexed
+
+It can store different types of data — numbers, strings, booleans, even other lists.
+
+
+fruits = ["apple", "banana", "cherry"]
+numbers = [10, 20, 30, 40]
+mixed = [1, "hello", True, 3.14]
