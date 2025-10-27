@@ -22,35 +22,33 @@ public class Basic {
         System.out.println("boolean: " + flag);
 
         // basic of variables
-        int val = 100,val1 =150;
+        int val = 100, val1 = 150;
         int val2 = val;
-        val=40;
-
+        val = 40;
 
         // Swap two numbers without using a third variable.
         int num1 = 20;
         int num2 = 30;
 
+        System.out.println("Before swap num1= " + num1 + "num2 " + num2);
 
-        System.out.println("Before swap num1= "+num1 + "num2 " + num2);
-
-        num1 = num1+ num2;
+        num1 = num1 + num2;
         num2 = num1 - num2;
         num1 = num1 - num2;
-        System.out.println("After swap num1= "+num1 + "num2 " + num2);
+        System.out.println("After swap num1= " + num1 + "num2 " + num2);
 
         // reference types
         // 1. Date
         Date now = new Date();
-        System.out.println("current time "+now);
+        System.out.println("current time " + now);
 
         // 2. string
         String msg = new String("hello people");
-        String str = "hey"; //short way to use string
+        String str = "hey"; // short way to use string
 
         // concat
-        System.out.println(msg + " "+str);
-        
+        System.out.println(msg + " " + str);
+
     }
 
 }
